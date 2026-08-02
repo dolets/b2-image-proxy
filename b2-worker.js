@@ -265,7 +265,7 @@ function buildHomePage() {
   </p>
   <div class="links">
     <a class="primary" href="/_health">健康检查</a>
-    <a class="secondary" href="https://www.backblaze.com/b2" target="_blank" rel="noopener">了解 B2 &#8594;</a>
+    <a class="secondary" href="https://www.backblaze.com" target="_blank" rel="noopener">了解 B2 &#8594;</a>
   </div>
   <div class="footer">
     Powered by Cloudflare Workers &middot; Backblaze B2 S3 Compatible API<br>
