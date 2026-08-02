@@ -261,7 +261,7 @@ function buildHomePage() {
     <span class="pulse"></span>服务运行正常<br>
     这是一个 <code>Backblaze B2</code> 存储桶的 <strong>只读访问网关</strong><br>
     通过 Cloudflare Workers 提供安全、高速的 S3 兼容对象存储代理
-    <small>需要指定已知目录和文件名访问资源，例如 <code>/imghub/example.png</code></small>
+    <small>需要指定已知目录和文件名访问资源，例如 <code>/example.png</code></small>
   </p>
   <div class="links">
     <a class="primary" href="/_health">健康检查</a>
