@@ -5,7 +5,7 @@
 ## 架构
 
 ```
-用户 → https://cdn.xxx.com/imghub/xxx.png
+用户 → https://cdn.xxx.com/example.png
          ↓
     Cloudflare Worker（签名代理）
          ↓
@@ -54,13 +54,13 @@
 部署完成后，直接访问 Worker 地址：
 
 ```
-https://b2-image-proxy.你的子域名.workers.dev/imghub/example.png
+https://b2-image-proxy.你的子域名.workers.dev/example.png
 ```
 
 或绑定自定义域名后：
 
 ```
-https://cdn.xxx.com/imghub/example.png
+https://cdn.xxx.com/example.png
 ```
 
 ## 健康检查
